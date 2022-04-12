@@ -16,7 +16,7 @@ Spring framework with spring boot.
         <tr>
             <td>2</td>
             <td> spring1</td>
-            <td> Spring Beans Scope, Setter injection, Reference injection, Constructor injection. </td>
+            <td> Spring Beans Scope, Setter injection, Reference injection, Constructor injection, Autowired. </td>
         </tr>
         <tr>
             <td>3</td>
